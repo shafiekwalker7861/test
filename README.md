@@ -1,2 +1,3 @@
 # test
-My first test repository on GitHub
+# My first test repository on GitHub
+# Im new to Github
